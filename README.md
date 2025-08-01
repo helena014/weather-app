@@ -15,3 +15,8 @@ This is a simple and beautiful **Weather App** built using **HTML, CSS, and Java
 - CSS3 (with glassmorphism and animation)
 - JavaScript (DOM + API fetch)
 - OpenWeatherMap API
+
+📌 Key Features:
+- Weather icons & temperature info
+- City-based weather search
+- Animated UI with rotating ring and glassmorphism effect
