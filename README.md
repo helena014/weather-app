@@ -1,4 +1,4 @@
-#🌤️ Weather App
+##🌤️ Weather App
 
 This is a simple and beautiful **Weather App** built using **HTML, CSS, and JavaScript**. It fetches live weather data using the [OpenWeatherMap API](https://openweathermap.org/api).
 
